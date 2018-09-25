@@ -1,1 +1,1 @@
-# Reproducible-Research-cpurse-project-1
+# Reproducible-Research-course-project-1
